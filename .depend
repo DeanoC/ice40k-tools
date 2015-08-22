@@ -1,0 +1,3 @@
+ice40ktool.o: ice40ktool.cpp docopt.h docopt_value.h
+docopt.o: docopt.cpp docopt.h docopt_value.h docopt_util.h \
+  docopt_private.h
